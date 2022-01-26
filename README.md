@@ -1,6 +1,4 @@
-# Only_HTML_Portfolio
-
-[Portfolio Link](https://koushikdutta99.github.io/Only_HTML_Portfolio/)
+# [Only HTML Portfolio](https://koushikdutta1999.github.io/Only_HTML_Portfolio/)
 
 <img src = "screenshot/one.png" alt = "about Photo">
 <img src = "screenshot/two.png" alt = "services Photo">
